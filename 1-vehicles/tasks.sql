@@ -1,3 +1,4 @@
+-- СУБД: MySQL
 -- Задача 1
 SELECT v.maker, m.model
 FROM Motorcycle m

@@ -1,3 +1,4 @@
+-- СУБД: MySQL
 -- Задача 1
 SELECT 
     c.name AS car_name,
